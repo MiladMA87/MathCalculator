@@ -179,8 +179,6 @@ print(factored)  # (x - 2)*(x + 2)
 ```
 Math_Calculator/
 ├── Math_Calculator.py     # فایل اصلی برنامه
-├── requirements.txt       # وابستگی‌های پروژه
-├── variables.txt          # فایل ذخیره متغیرها (ایجاد خودکار)
 ├── LICENSE                # مجوز پروژه
 └── README.md              # مستندات پروژه
 ```
