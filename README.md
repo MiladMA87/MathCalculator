@@ -313,16 +313,3 @@ furnished to do so, subject to the following conditions:
 **ساخته شده با ❤️ توسط میلاد مرادپور**  
 **آخرین بروزرسانی:** July 2026
 ```
-
----
-
-## ✅ نکات نهایی
-
-1. فایل رو با نام `README.md` ذخیره کنید
-2. کنار فایل `Math_Calculator.py` قرارش بدید
-3. فایل `requirements.txt` رو هم بسازید:
-   ```txt
-   sympy>=1.12
-   numpy>=1.24
-   matplotlib>=3.7
-   ```
